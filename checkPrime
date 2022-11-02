@@ -12,12 +12,11 @@ function prime(number){
       
        return true;
 }  
-       return false;
 
+       return false;
 }
 
-
-   let answer=prime(21);
+ let answer=prime(21);
   
   if (answer==true){
        console.log("Prime");
